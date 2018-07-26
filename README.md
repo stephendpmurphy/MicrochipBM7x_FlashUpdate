@@ -1,4 +1,4 @@
-# Microchip BM70 and BM71 FlashUpdate
+# Microchip BM70 and BM71 Config/FlashUpdate
 I owe a lot of credit to BKISHDROID on YouTube for doing some great work and documenting most of which you will find in the ReadMe. There were some moments in his videos were he mispoken which can cause confusion, as well as some bugs in the code he provided. I will try to clear up any confusion in this ReadMe, as well as place the corrected code and diagrams in this Repo.
 
 ## Intro
